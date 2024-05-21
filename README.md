@@ -7,4 +7,5 @@ The overall architecture of DID:
 ![image](https://github.com/MrCookieeeee/DID-Data-Isolation-via-Dynamic-Adjustment-of-Permissions-and-Spaces/assets/107045624/7cc8800c-66c9-48c8-847d-3db379fc5a55)
 
 Lmbench test results:
-![image](https://github.com/MrCookieeeee/DID-Data-Isolation-via-Dynamic-Adjustment-of-Permissions-and-Spaces/assets/107045624/4905aa4b-519a-4043-b0b2-88c8e00e7a40)
+![image](https://github.com/MrCookieeeee/DID-Data-Isolation-via-Dynamic-Adjustment-of-Permissions-and-Spaces/assets/107045624/90bffe2c-e14f-40e9-92d8-4bf3be035948)
+
